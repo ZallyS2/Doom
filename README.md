@@ -22,7 +22,7 @@
   
  
 <div>
- Acesse o jogo clicando <a href ="https://zallih.github.io/Doom/">AQUI</a>
+ Acesse o jogo clicando <a href ="https://zallys2.github.io/Doom/">AQUI</a>
   
   
  
